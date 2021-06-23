@@ -1,7 +1,6 @@
 /*
-				Name: Mehul Chaturvedi
-				IIT-Guwahati
-*/
+				Name: Kumar Ojas 
+				Institute:IIIT Vadodara.
 
 /*
 				PROBLEM STATEMENT
